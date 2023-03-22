@@ -1,0 +1,7 @@
+instal
+
+1
+https://create-react-app.dev/docs/getting-started
+npx create-react-app my-app
+---------------------------------------------------------
+2
